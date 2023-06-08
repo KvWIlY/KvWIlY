@@ -13,6 +13,9 @@
 
 ##
 
+![Snake animation](https://github.com/KvWIlY/eipedrov/blob/output/github-contribution-grid-snake.svg)
+
+##
 <div align="center">
   <a href = "mailto:kw.willyn@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/guilhermebn198/](https://www.linkedin.com/in/kevin-willyn-3130b9133/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%a1f75fe?style=for-the-badge&logo=LinkedIn&logoColor=white"</a>
